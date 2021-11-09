@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning backend development in nodejs
 - 💞️ I’m looking to collaborate on  frontend development issues and solutions and projects. I readily contribute in open source.I beleive in community learning and growth.
 - 📫 How to reach me ... you can reach me through any of the handles given below
-gmail:---> swarnimkamal9@gmail.com
-twitter:--> @kamal_swarnim
-Instagram:---> 
-facebook--> 
+- gmail:---> swarnimkamal9@gmail.com
+- twitter:--> @kamal_swarnim
+- Instagram:---> @swarnimkamal
+- facebook--> 
 
 
 <!---
