@@ -5,8 +5,9 @@
 - 📫 How to reach me ... you can reach me through any of the handles given below
 - gmail:---> swarnimkamal9@gmail.com
 - twitter:--> @kamal_swarnim
-- Instagram:---> @swarnimkamal
-- facebook--> 
+- Instagram:---> https://www.instagram.com/swarnimkamal/
+- facebook--> https://www.facebook.com/swarnim.kamal.1/
+- Linkedln--> https://www.linkedin.com/in/swarnim-kamal-412338209/
 
 
 <!---
